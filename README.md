@@ -2,7 +2,7 @@
 
 ## Cybersecurity Analyst
 
-Hello! I'm **Jermann Barry Lutsai**, a recent graduate in Diploma In Information Security and Ethical Hacking currently specializing in Cybersecurity and with a passion for protecting digital environments from evolving threats. I am actively pursuing for a position as a **Tier 1 Security Operations Center (SOC) Analyst**, where I can apply my growing expertise in monitoring, detecting, and responding to security incidents.
+Hello! I'm **Jermann Barry Lutsai**, a recent graduate with a Diploma In Information Security and Ethical Hacking currently specializing in Cybersecurity and with a passion for protecting digital environments from evolving threats. I am actively pursuing for a position as a **Tier 1 Security Operations Center (SOC) Analyst**, where I can apply my growing expertise in monitoring, detecting, and responding to security incidents.
 
 ### 💻 Skills & Interests
 
