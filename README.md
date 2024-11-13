@@ -48,7 +48,7 @@ In 2024, my LinkedIn account was compromised, leading to a temporary loss of dat
 I am actively applying for SOC analyst roles and would love to connect! Feel free to reach out to me to discuss cybersecurity topics, collaboration, or potential job opportunities:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/barrylutsai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barrylutsai/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUTSAI-BARRY)
 
