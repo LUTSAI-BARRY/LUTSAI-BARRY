@@ -28,19 +28,25 @@ I am focused on developing my expertise in SOC operations and contributing to th
 
 ### 📚 Certifications & Courses
 
-- [CompTIA Security+](https://www.professormesser.com/get-comptia-security-plus-certified/#)
-- [CompTIA CySA+](in progress)
-- SIEM Tools Training (Splunk)
+- EC Council Certified Cybersecurity Anayst (in progress)
+- Cisco Certified Support Technician (CCST) Cybersecurity-(https://www.netacad.com/profile?tab=badges)
+- SIEM Tools Training (Universal Splunk, Wazuh)
+  
 
 ### 🛠️ Projects
 
-1. **SOC Analyst Training Lab**: Developed a virtual environment to simulate SOC operations, focusing on log analysis and threat detection using Splunk.
+1. **SOC Analyst Home Training Lab**: Developed a virtual environment to simulate SOC operations, focusing on network monitoring and threat detection using Wazuh and universal Splunk.
 2. **Threat Intelligence Dashboard**: Built a dashboard to track and analyze emerging cyber threats using open-source threat intelligence feeds.
 3. **Flare VM Customizations**: Customized Flare VM for reverse engineering exercises and malware analysis.
 
+## Practical Cybersecurity Incident.
+
+In 2024, my LinkedIn account was compromised, leading to a temporary loss of data. This incident gave me the opportunity to apply my cybersecurity skills in a real-world scenario. I successfully regained access to the account, implemented enhanced security measures (e.g., two-factor authentication, regular password updates), and began the process of rebuilding my professional network. This experience has strengthened my understanding of account security and reinforced the importance of proactive defense strategies.
+   
 ### 📫 Let's Connect
 
 I am actively applying for SOC analyst roles and would love to connect! Feel free to reach out to me to discuss cybersecurity topics, collaboration, or potential job opportunities:
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jermann-barry-lutsai)
 
