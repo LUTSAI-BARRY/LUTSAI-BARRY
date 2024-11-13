@@ -29,7 +29,7 @@ I am focused on developing my expertise in SOC operations and contributing to th
 ### 📚 Certifications & Courses
 
 - EC Council Certified Cybersecurity Anayst (in progress)
-- Cisco Certified Support Technician (CCST) Cybersecurity-(https://www.netacad.com/profile?tab=badges)
+- Cisco Certified Support Technician (CCST) Cybersecurity 
 - SIEM Tools Training (Universal Splunk, Wazuh)
   
 
