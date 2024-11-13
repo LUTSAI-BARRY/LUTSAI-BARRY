@@ -22,6 +22,42 @@ Here are some of my favorite tools and resources that I actively explore and rec
 
 These tools and resources have been instrumental in building my expertise as I prepare for a role in SOC operations.
 
+# 🏠 Cybersecurity Home Lab
+
+This repository documents the setup and configuration of my personal cybersecurity home lab, used for hands-on learning and experimentation.
+
+## 🔍 Lab Overview
+My home lab consists of:
+- **Virtual Machines**: Running on VMware/VirtualBox, including Kali Linux, Windows Server, and Ubuntu.
+- **Network Devices**: Virtual firewalls (pfSense), routers, and switches.
+- **Security Tools**:
+  - **SIEM**: Splunk
+  - **IDS/IPS**: Snort
+  - **Vulnerability Scanning**: OpenVAS
+  - **Packet Analysis**: Wireshark, Burp Suite
+  - **Other Tools**: Metasploit, Nmap
+
+## 📊 Network Diagram
+This diagram illustrates the network architecture of my lab:
+
+![Network Diagram](Network-Diagram/network-diagram.png)
+
+## 🛠️ Setup Guides
+- [Firewall Setup Guide](Setup-Guides/firewall-setup.md)
+- [SIEM Setup Guide](Setup-Guides/SIEM-setup.md)
+- [IDS Setup Guide](Setup-Guides/IDS-setup.md)
+
+## 🔐 Practical Security Testing
+I use this lab to:
+- Test security tools like Snort and Splunk.
+- Perform penetration testing with Kali Linux.
+- Set up honeypots and monitor attacks using Wireshark.
+
+## 📂 Projects
+- [Splunk Configuration for Log Management](Tools/Splunk)
+- [Wireshark Configuration for Network Analysis](Tools/Wireshark)
+
+
 ### 🎯 Career Goals
 
 I am focused on developing my expertise in SOC operations and contributing to the defense of organizations against emerging cyber threats. I am committed to continuous learning and sharpening my skills to excel in the dynamic field of cybersecurity.
