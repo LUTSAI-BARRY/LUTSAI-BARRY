@@ -52,4 +52,4 @@ I am actively applying for SOC analyst roles and would love to connect! Feel fre
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUTSAI-BARRY)
 
-Email: [barrylutsai@gmail.com](mailto:barrylutsai@gmail.com)
+Email: [lutsaibarry@gmail.com](mailto:lutsaibarry@gmail.com)
