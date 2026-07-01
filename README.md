@@ -1,5 +1,4 @@
-python3 << 'EOF'
-content = """# Barry Lutsai — SOC Analyst & Cybersecurity Consultant
+# Barry Lutsai — SOC Analyst & Cybersecurity Consultant
 
 ## 🛡️ About Me
 
@@ -54,11 +53,5 @@ Active researcher on HackerOne and Bugcrowd targeting web application vulnerabil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barrylutsai/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUTSAI-BARRY)
 
-📧 jermainlutsai@gmail.com
+📧 jermainlutsai@gmail.com  
 🏢 Guiardzen Cybersecurity Consultancy — Nairobi, Kenya
-"""
-
-with open("/home/barry/sme-threat-intel/PROFILE_README.md", "w") as f:
-    f.write(content)
-print("Profile README written")
-EOF
